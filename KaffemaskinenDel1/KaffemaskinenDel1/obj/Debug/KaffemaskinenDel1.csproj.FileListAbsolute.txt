@@ -1,7 +1,0 @@
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\bin\Debug\KaffemaskinenDel1.exe.config
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\bin\Debug\KaffemaskinenDel1.exe
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\bin\Debug\KaffemaskinenDel1.pdb
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\obj\Debug\KaffemaskinenDel1.csprojAssemblyReference.cache
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\obj\Debug\KaffemaskinenDel1.csproj.CoreCompileInputs.cache
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\obj\Debug\KaffemaskinenDel1.exe
-C:\Users\mort286f\source\repos\KaffemaskinenDel1\KaffemaskinenDel1\obj\Debug\KaffemaskinenDel1.pdb
